@@ -21,6 +21,7 @@ two = word.charAt(1);
 
 //vowels
 if (one==('a')) {
+	System.out.println(word + "-way" );
 	
 }
 
